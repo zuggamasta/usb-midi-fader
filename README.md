@@ -1,6 +1,9 @@
 # usb-midi-fader
 Arduino based fader controller for sending continuous midi ControlChange values over midi. Uses BLOKAS/USBMIDI library
 
+
+## Part List / BOM {#BOM}
+
 |     | Part | Additional Info     | 
 |:---:| :--- | :--- |
 | 1×| Arduino Pro Micro | Qwiic compatible  |
